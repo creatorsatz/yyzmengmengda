@@ -1,3 +1,3 @@
 adiabatic dynamics of a quantum critical system coupled to an environment:
  Scaling and kinetic equation approaches!
-yyz
+yyz mmd
